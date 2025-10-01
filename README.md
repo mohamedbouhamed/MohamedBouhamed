@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @mohamedbouhamed
-- 👀 I’m interested in Data Science
-- 🌱 I’m currently learning Machine learning
-
-
-
+- 👀 I’m passionate about Data Science and AI
+- 🌱 I’m currently learning and exploring Machine Learning, Generative AI, and applied data projects
+- 💻 I enjoy working on projects involving data analysis, predictive modeling, and AI applications
+- 📫 Feel free to connect with me or check out my repositories!
