@@ -23,7 +23,7 @@
 
 <h2 align="center" >Who am I ? 🧑‍💻 </h2>
 <p align="center">
-I'm a 23 yo French computer science student at Paris-Saclay University 👨‍🎓 With a strong experienc LLM </p>
+I'm a 23 yo computer science student at Paris-Saclay University 👨‍🎓 With a strong experienc LLM </p>
 
 <p align="center">
 I'm currently interning as a ML engineer in Ekimetrics, working on macOS driver stack. Previously, I worked as a firmware engineer at GoPro, working in both Linux and RTOS environment.
