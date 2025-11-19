@@ -19,21 +19,23 @@
   <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sqlite&logoColor=white" />
+  <img src="https://img.shields.io/badge/SWIFT-FA7343?style=for-the-badge&logo=swift&logoColor=white" />
+
 </p>
 
 <h2 align="center" >Who am I ? 🧑‍💻 </h2>
 <p align="center">
-I'm a 23 yo computer science student at Paris-Saclay University 👨‍🎓 With a strong experienc LLM </p>
+I'm a 23 yo computer science student at Paris-Saclay University 👨‍🎓 With a strong experienc ML, LLMs and Software Engineering</p>
 
 <p align="center">
-I'm currently interning as a ML engineer in Ekimetrics, working on macOS driver stack. Previously, I worked as a firmware engineer at GoPro, working in both Linux and RTOS environment.
-Until January 2024, I worked as a network architect and administrator for a student internet provider, Viarezo (AS 212424) for a whole year. This was an opportunity for me to learn planty of things about clusters, low-level and high-level networking, virtualization and databases.
+I am currently a Machine Learning Engineer intern at Ekimetrics, developing end-to-end ML pipelines in Python and transforming a RAG architecture with LangChain into an agentic OpenAI SDK system for iterative self-correction and multi-step operations.
+Previously, I worked as a Software Engineer at EDF, building an Angular frontend for real-time and predictive visualization of nuclear plant availability, integrating complex datasets from EDF’s public APIs with a focus on user-centric design.
 </p>
 
 
 <h2 align="center" > What do I like ? 😎 </h2>
 <p align="center">
-I'm passionate about many things but my favorite thing at the moment is low level development. Let's have a look at a couple of projects I participated in !
+I'm passionate about many things but my favorite things at the moment are LLMs and Software Development. Let's have a look at a couple of projects I participated in !
 </p>
 
 <!-- 
@@ -217,29 +219,32 @@ As an administrator of an Internet Provider, I had to fix and improve wesites fo
 
 <hr>
 
-<h2 align="center" > Technologies I'm used to </h2>
+<h2 align="center">Tools & Libraries I'm familiar with</h2>
 <p align="center">
-  <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white">
-  <img src="https://img.shields.io/badge/Openstack-%23f01742.svg?style=for-the-badge&logo=openstack&logoColor=white"/>
-  <img src="https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white"/>
-  <img src="https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white" />
-  <img src="https://img.shields.io/badge/datadog-%23632CA6.svg?style=for-the-badge&logo=datadog&logoColor=white" />
-  <img src="https://img.shields.io/badge/ovh-%23123F6D.svg?style=for-the-badge&logo=ovh&logoColor=#123F6D" />
-  <img src="https://img.shields.io/badge/ubiquiti-%230559C9.svg?style=for-the-badge&logo=ubiquiti&logoColor=white" />
+  <!-- Python / ML -->
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/LangChain-7B68EE?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Google%20ADK-4285F4?style=for-the-badge&logo=google&logoColor=white" />
 </p>
 
-<h2 align="center" > Tools I'm used to </h2>
 <p align="center">
-  <img src="https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white" />
-  <img src="https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white">
-  <img src="https://img.shields.io/badge/Obsidian-%23483699.svg?style=for-the-badge&logo=obsidian&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CLion-black?style=for-the-badge&logo=clion&logoColor=white" />
-  <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
-  <img src="https://img.shields.io/badge/ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white">
-  <img src="https://img.shields.io/badge/jinja-white.svg?style=for-the-badge&logo=jinja&logoColor=black">
+  <!-- Data / Dev / Web -->
+  <img src="https://img.shields.io/badge/Databricks-FC5000?style=for-the-badge&logo=databricks&logoColor=white" />
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" />
+  <img src="https://img.shields.io/badge/Azure%20DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white" />
+  <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white" />
+  <img src="https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
 </p>
+
 
 
 
