@@ -1,6 +1,6 @@
 # Hi there, I'm Mohamed 👋
 
-Machine Learning Engineer passionate about LLMs, AI Systems, and Software Development
+Computer Science student passionate about LLMs, AI Systems, and Software Development
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/mohamedbouhamed)
 [![HuggingFace](https://img.shields.io/badge/🤗_HuggingFace-Profile-FFD21E?style=flat)](https://huggingface.co/MohamedBouhamed)
