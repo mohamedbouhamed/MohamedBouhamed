@@ -9,17 +9,13 @@ Computer Science student passionate about LLMs, AI Systems, and Software Develop
 
 ## 👨‍💻 About Me
 
-I'm a **Machine Learning Engineer** and Computer Science student at Paris-Saclay University, with hands-on experience building production ML systems and modern web applications.
+I'm a Computer Science student at Paris-Saclay University, with hands-on experience building production ML systems and modern web applications.
 
-**Currently:** ML Engineer Intern at **Ekimetrics**
+**Previously:** ML Engineer Intern @ 
 - Building end-to-end ML pipelines in Python
 - Transforming RAG architectures using LangChain into agentic OpenAI SDK systems
 - Implementing iterative self-correction and multi-step operations for advanced AI workflows
 
-**Previously:** Software Engineer at **EDF**
-- Developed Angular frontend for real-time nuclear plant availability visualization
-- Integrated complex datasets from EDF's public APIs
-- Focused on predictive analytics and user-centric design
 
 ---
 
